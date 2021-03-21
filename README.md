@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋! Welcome to my profile!
 
-<!--
-**Dufyz/dufyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here somethings about me :
 
-Here are some ideas to get you started:
+- 👀 I’m interested in Data Science for Machine Learning in the moment
+- 🚀 I'm working with Python, MySql and sometimes JavaScript and HTML/CSS3
+- 🌱 I’m currently learning about Machine Learning, Physics/Astronomy and Business Intelligence (B.I)
+- 📫 You can reach me here on GitHub or on my Instagram (@schmidt_iago)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+Dufyz/Dufyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
