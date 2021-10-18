@@ -2,7 +2,7 @@
 
 Here somethings about me:
 
-- 👀 I’m interested in science for aeroespacial tecnologie
+- 👀 I’m interested in science for aeroespacial technology
 - 🚀 I’m currently learning about Physics/Astronomy, Math and Machine Learning
 - 📫 You can reach me here on GitHub or on my Instagram (@schmidt_iago) or Linkedin (https://www.linkedin.com/in/schmidt-iago-thomaz/)
 
