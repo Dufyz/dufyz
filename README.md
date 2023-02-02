@@ -8,7 +8,7 @@
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://github.com/Dufyz/dufyz/blob/main/perfil.png?raw=true">
 </div>
   
 ## Reach me
