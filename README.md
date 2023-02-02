@@ -1,4 +1,4 @@
-## Skills
+## SKILLS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -11,7 +11,7 @@
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bfcb2acf-93e0-4fc3-8d99-cf89fe7195bd-profile_image-300x300.png">
 </div>
   
-## Reach me
+## REACH ME
  
 <div> 
   <a href="https://www.instagram.com/schmidt_iago/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
