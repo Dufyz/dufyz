@@ -25,10 +25,11 @@
   
 ## REACH ME
  
-<div> 
-  <a href="https://www.instagram.com/schmidt_iago/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dev.schmidt.iago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/schmidt-iago-thomaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div style="display: flex; justify-content: space-between;"> 
+  <a href="https://www.instagram.com/schmidt_iago/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
+  <a href = "mailto:dev.schmidt.iago@gmail.com"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/schmidt-iago-thomaz/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> 
+  <a href="https://linktr.ee/Dufyz" target="_blank"><img height="40" width="40" src="https://img.icons8.com/color/256/linktree.png" target="_blank"></a> 
   
 </div>
 
