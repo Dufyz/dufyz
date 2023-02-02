@@ -23,7 +23,7 @@
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bfcb2acf-93e0-4fc3-8d99-cf89fe7195bd-profile_image-300x300.png">
 </div>
   
-## REACH ME
+<!-- ## REACH ME
  
 <div style="display: flex; justify-content: space-between;"> 
   <a href="https://www.instagram.com/schmidt_iago/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/schmidt-iago-thomaz/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> 
   <a href="https://linktr.ee/Dufyz" target="_blank"><img height="40" width="40" src="https://img.icons8.com/color/256/linktree.png" target="_blank"></a> 
   
-</div>
+</div> -->
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> -->
