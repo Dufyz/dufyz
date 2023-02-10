@@ -1,9 +1,19 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dufyz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilerme I. Schmidt Thomaz github stats" /> 
-<!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufyz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
-</div>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufyz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div> -->
+
+## About me
+
+My name is Guilherme Iago Schmidt Thomaz, I am Brazilian and 18 years old.
+
+I describe myself as a person with a passion for knowledge. From my passion for cosmology I started studying astronomy and discovered along the way how important data is for science and the functioning of the systems, robots and artificial intelligences that interest me so much. So this is how my love for technology emerged as a child.
+
+As a developer I started as a Back-end programmer. Since then I have been dedicating myself to my studies. I work with Python, Java, JavaScript and some framework of the same.
+
+Besides my work, I enjoy science, movies, games, music, podcast and books. In my free time I usually spend my time with family and friends.
 
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bfcb2acf-93e0-4fc3-8d99-cf89fe7195bd-profile_image-300x300.png">
   
