@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dufyz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilerme I. Schmidt Thomaz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufyz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufyz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
 </div>
 
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bfcb2acf-93e0-4fc3-8d99-cf89fe7195bd-profile_image-300x300.png">
