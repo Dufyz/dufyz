@@ -7,13 +7,18 @@
 
 ## About me
 
-My name is Guilherme Iago Schmidt Thomaz, I am Brazilian and 18 years old.
+My name is Guilherme Iago Schmidt Thomaz, I'm Brazilian and I'm 17 years old. I am committed to teamwork and always willing to learn from other team members.
 
-I describe myself as a person with a passion for knowledge. From my passion for cosmology I started studying astronomy and discovered along the way how important data is for science and the functioning of the systems, robots and artificial intelligences that interest me so much. So this is how my love for technology emerged as a child.
+I describe myself as a person passionate about knowledge. I started studying astronomy and discovered along the way how important data is to science and the functioning of systems, cars, robots, and artificial intelligences that interest me so much. That's how my love for technology emerged when I was a child.
 
-As a developer I started as a Back-end programmer. Since then I have been dedicating myself to my studies. I work with Python, Java, JavaScript and some framework of the same.
+I started as a back-end programmer and developed several personal projects in the field. Currently, I am a student at IFG - Federal Institute of Goiás, pursuing a Bachelor's degree in Information Systems. My qualifications are assured by a solid educational foundation where my personal and academic skills have been enhanced.
 
-Besides my work, I enjoy science, movies, games, music, podcast and books. In my free time I usually spend my time with family and friends.
+As a programmer, I work with Python, Java, JavaScript, TypeScript, and some of their frameworks. I use my knowledge in technology to develop projects that involve all my knowledge.
+
+Outside of work, I enjoy science, movies, games, music, podcasts, and books. In my free time, I usually spend time with family and friends.
+
+I am always open to new learning opportunities and strive to stay up-to-date with the latest trends and technologies in the market. If you have any questions or interest, please do not hesitate to contact me. Thank you for your time and consideration.
+
 
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bfcb2acf-93e0-4fc3-8d99-cf89fe7195bd-profile_image-300x300.png">
   
