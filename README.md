@@ -11,7 +11,7 @@ My name is Guilherme Iago Schmidt Thomaz, I'm Brazilian and I'm 17 years old. I 
 
 I describe myself as a person passionate about knowledge. I started studying astronomy and discovered along the way how important data is to science and the functioning of systems, cars, robots, and artificial intelligences that interest me so much. That's how my love for technology emerged when I was a child.
 
-I started as a back-end programmer and developed several personal projects in the field. Currently, I am a student at UFG - Federal University of Goiás, pursuing a Bachelor's degree in Information Systems. My qualifications are assured by a solid educational foundation where my personal and academic skills have been enhanced.
+I started as a back-end programmer and developed several personal projects in the field. Currently, I am a student at UFG - Federal University of Goiás, pursuing a Bachelor's degree in Software Engineering. My qualifications are assured by a solid educational foundation where my personal and academic skills have been enhanced.
 
 As a programmer, I work with Python, Java, JavaScript, TypeScript, and some of their frameworks. I use my knowledge in technology to develop projects that involve all my knowledge.
 
