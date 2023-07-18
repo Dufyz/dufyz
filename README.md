@@ -13,7 +13,7 @@ I describe myself as a person passionate about knowledge. I started studying ast
 
 I started as a back-end programmer and developed several personal projects in the field. Currently, I am a student at UFG - Federal University of Goiás, pursuing a Bachelor's degree in Software Engineering. My qualifications are assured by a solid educational foundation where my personal and academic skills have been enhanced.
 
-As a programmer, I work with Python, Java, JavaScript, TypeScript, and some of their frameworks. I use my knowledge in technology to develop projects that involve all my knowledge.
+As a programmer, I work with Python, Java, C, and some of their frameworks. I use my knowledge in technology to develop projects that involve all my knowledge.
 
 Outside of work, I enjoy science, movies, games, music, podcasts, and books. In my free time, I usually spend time with family and friends.
 
