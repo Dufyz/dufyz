@@ -18,7 +18,7 @@ I am always open to new learning opportunities and strive to stay up-to-date wit
 
 <!--  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bfcb2acf-93e0-4fc3-8d99-cf89fe7195bd-profile_image-300x300.png">  -->
   
-## Siklls
+## Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
