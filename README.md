@@ -25,6 +25,7 @@ I am always open to new learning opportunities and strive to stay up-to-date wit
 <!--   <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain.svg"> Java -->
   <img align="center" alt="Gui-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> C++
   <img align="center" alt="Gui-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"> NodeJS
+    <img align="center" alt="Gui-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"> AWS
   <img align="center" alt="Gui-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL
   <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> GIT
 </div>
