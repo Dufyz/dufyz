@@ -7,23 +7,24 @@
 
 ## Sobre
 
-Eu me descrevo-me como uma pessoa apaixonada pelo conhecimento. Comecei a estudar astronomia e descobri ao longo do caminho a importância dos dados para a ciência e o funcionamento de sistemas, carros, robôs e inteligências artificiais que tanto me interessam. Foi assim que surgiu o meu amor pela tecnologia, ainda em criança.
+👨‍💻Apaixonado por tecnologia e astronomia, minha jornada na área começou com curiosidade pelo funcionamento de robôs e carros autônomos. Hoje, atuo como desenvolvedor back-end criando soluções escaláveis e de alto desempenho.
 
-Como programador, trabalho como desenvolvedor full stack. Utilizo os meus conhecimentos em tecnologia para desenvolver projectos que envolvem todos os meus conhecimentos. As minhas qualificações são asseguradas por uma sólida base educacional e profissional onde as minhas competências pessoais e académicas foram reforçadas.
+Já atuei como desenvolvedor full-stack, o que me proporcionou uma visão abrangente no desenvolvimento de sistemas e na integração ponta a ponta das diferentes partes da aplicação.
 
-Estou sempre aberto a novas oportunidades de aprendizagem e procuro manter-me atualizado com as últimas tendências e tecnologias do mercado. Se tiver alguma dúvida ou interesse, não hesite em contactar-me. Obrigado pelo vosso tempo e consideração.
+Estou sempre aberto a novas oportunidades de aprendizagem e procuro manter-me atualizado com as últimas tendências e tecnologias do mercado. Se tiver alguma dúvida ou interesse, não hesite em contactar-me.
 
 <!--  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bfcb2acf-93e0-4fc3-8d99-cf89fe7195bd-profile_image-300x300.png">  -->
   
 ## Competências
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"> React.Js
-  <img align="center" alt="Gui-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg"> Next.Js
-  <img align="center" alt="Gui-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"> TypeScript
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
-  <img align="center" alt="Gui-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> PostgreSQL
-  <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> GIT
+    <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg"> Go
+    <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"> TypeScript
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"> React.Js
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> AWS
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> PostgreSQL
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> GIT
 </div>
 
   
